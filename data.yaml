@@ -1,0 +1,6 @@
+train: data/train/images
+val: data/valid/images
+
+nc: 4
+names: ['Road', 'Bridge', 'Building', 'road under construction']
+#similarly names can include 'Under Construction Road', 'Fully developed Road', 'Tar road', 'Soil Road', 'Concrete Road'
